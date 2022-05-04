@@ -1,0 +1,5 @@
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\Data Access Layer.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\Data Access Layer.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\Data Access Layer.csproj.CoreCompileInputs.cache

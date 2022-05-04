@@ -1,0 +1,36 @@
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.deps.json
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.dll
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\Domain Layer.dll
+F:\AmazonOrdersWebApi\Data Access Layer\bin\Debug\net5.0\Domain Layer.pdb
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.dll
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.pdb
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+F:\AmazonOrdersWebApi\Data Access Layer\obj\Debug\net5.0\ref\DataAccessLayer.dll

@@ -1,0 +1,51 @@
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.deps.json
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CopyComplete
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\refint\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\ref\Business Layer.dll
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.deps.json
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.dll
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.pdb
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.dll
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.dll
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.pdb
+F:\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.pdb
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.AssemblyReference.cache
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfoInputs.cache
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfo.cs
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CoreCompileInputs.cache
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CopyComplete
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.dll
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\refint\Business Layer.dll
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.pdb
+F:\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\ref\Business Layer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.deps.json
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.AssemblyReference.cache
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfoInputs.cache
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.AssemblyInfo.cs
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.csproj.CopyComplete
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\refint\Business Layer.dll
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\Business Layer.pdb
+C:\Users\KAVYA\source\repos\AmazonOrdersWebApi\Business Layer\obj\Debug\net5.0\ref\Business Layer.dll
